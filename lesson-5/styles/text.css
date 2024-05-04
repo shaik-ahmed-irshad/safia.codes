@@ -1,0 +1,55 @@
+ p {
+        font-family: Arial;
+        margin-top: 0;
+        margin-bottom: 0;
+      }
+      .text {
+        font-size: 12px;
+        font-weight: bold;
+        width: 200px;
+        line-height: 16px;
+        margin-bottom: 3px;
+        /* font-style: italic;
+    text-decoration: underline; */
+      }
+      .views {
+        font-size: 9px;
+        color: rgb(96, 96, 96);
+        margin-bottom: 8px;
+      }
+      .author {
+        font-size: 9px;
+        color: rgb(96, 96, 96);
+        margin-bottom: 10px;
+      }
+      .content {
+        font-size: 9px;
+        color: rgb(96, 96, 96);
+        width: 180px;
+        line-height: 12px;
+        margin-bottom: 40px;
+      }
+      .apple-text {
+        margin-bottom: 50px;
+        font-size: 10px;
+        background-color: rgb(227, 65, 64);
+        color: white;
+        text-align: center;
+        padding-top: 15px;
+        padding-bottom: 15px;
+      }
+      .example {
+        font-size: 10px;
+        font-family: Tahoma;
+      }
+      .span-example {
+        color: red;
+        font-weight: bolder;
+        text-decoration: line-through;
+      }
+      .shop-link {
+        cursor: pointer;
+      }
+      .shop-link:hover {
+        text-decoration: underline;
+      }
